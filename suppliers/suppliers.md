@@ -10,6 +10,7 @@ This is the list of known sticker suppliers.
 | [standoutstickers.com](experiences/standoutstickers.com/standoutstickers.com.md) [[web](https://www.standoutstickers.com/)] | |
 | [stickermule.com](experiences/stickermule.com/stickermule.com.md) [[web](https://www.stickermule.com/custom-stickers)] | |
 | [stickerprinting.de](experiences/stickerprinting.de/stickerprinting.de.md) [[web](https://stickerprinting.de/)] | |
+| [bizay.de](experiences/bizay.de/bizay.de.md) [[web](https://bizay.de/)] | | 
 
 ## How to add a supplier or experiences
 
